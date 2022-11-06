@@ -1,0 +1,25 @@
+body {
+    background-color:aquamarine;
+}
+
+img {
+    border-radius: 50ch;
+    width: 250px;
+    display:block;
+    margin: 0px auto;
+}
+
+h2 {
+    text-align: center;
+}
+
+h1 {
+    background-color:beige;
+}
+p {
+    text-align: center;
+}
+
+table {
+    margin-left: 630px;
+}
